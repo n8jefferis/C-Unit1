@@ -1,0 +1,11 @@
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/bin/Debug/netcoreapp2.1/TravelSuggestions.deps.json
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/bin/Debug/netcoreapp2.1/TravelSuggestions.runtimeconfig.json
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/bin/Debug/netcoreapp2.1/TravelSuggestions.runtimeconfig.dev.json
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/bin/Debug/netcoreapp2.1/TravelSuggestions.dll
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/bin/Debug/netcoreapp2.1/TravelSuggestions.pdb
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/obj/Debug/netcoreapp2.1/TravelSuggestions.csprojAssemblyReference.cache
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/obj/Debug/netcoreapp2.1/TravelSuggestions.csproj.CoreCompileInputs.cache
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/obj/Debug/netcoreapp2.1/TravelSuggestions.AssemblyInfoInputs.cache
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/obj/Debug/netcoreapp2.1/TravelSuggestions.AssemblyInfo.cs
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/obj/Debug/netcoreapp2.1/TravelSuggestions.dll
+/Users/Nate/Desktop/Coding/Net/TravelSuggestions/TravelSuggestions/obj/Debug/netcoreapp2.1/TravelSuggestions.pdb

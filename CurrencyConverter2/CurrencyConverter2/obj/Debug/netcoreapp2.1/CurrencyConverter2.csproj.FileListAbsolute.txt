@@ -1,0 +1,11 @@
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/bin/Debug/netcoreapp2.1/CurrencyConverter2.deps.json
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/bin/Debug/netcoreapp2.1/CurrencyConverter2.runtimeconfig.json
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/bin/Debug/netcoreapp2.1/CurrencyConverter2.runtimeconfig.dev.json
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/bin/Debug/netcoreapp2.1/CurrencyConverter2.dll
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/bin/Debug/netcoreapp2.1/CurrencyConverter2.pdb
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/obj/Debug/netcoreapp2.1/CurrencyConverter2.csprojAssemblyReference.cache
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/obj/Debug/netcoreapp2.1/CurrencyConverter2.csproj.CoreCompileInputs.cache
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/obj/Debug/netcoreapp2.1/CurrencyConverter2.AssemblyInfoInputs.cache
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/obj/Debug/netcoreapp2.1/CurrencyConverter2.AssemblyInfo.cs
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/obj/Debug/netcoreapp2.1/CurrencyConverter2.dll
+/Users/Nate/Desktop/Coding/CurrencyConverter/CurrencyConverter2/CurrencyConverter2/obj/Debug/netcoreapp2.1/CurrencyConverter2.pdb
